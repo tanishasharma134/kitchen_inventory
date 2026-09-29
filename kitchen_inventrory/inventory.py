@@ -1,6 +1,6 @@
-available_eggs = int(input('How many eggs are available in the kitchen? '))
-available_flour = int(input('How many cups of flour are available in the kitchen? '))
-available_sugar = int(input('How many cups of sugar are available in the kitchen? '))
+available_eggs = int(input('How many eggs are available in the kitchen:'))
+available_flour = int(input('How many cups of flour are available in the kitchen: '))
+available_sugar = int(input('How many cups of sugar are available in the kitchen: '))
 
 def check_kitchen_stock():
     total_items = available_eggs + available_flour + available_sugar
