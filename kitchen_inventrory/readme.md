@@ -1,4 +1,4 @@
-# 🥚 Kitchen Stock Manager
+# 🥚 Kitchen Inventory
 
 A simple Python project that demonstrates **variables, user input, functions, conditions, arithmetic operations, and return values**.
 
@@ -191,7 +191,7 @@ output:
 
 ![alt text](image-1.png)
 
-## 👩‍💻 Author
+## created by:
 
 **Tanisha**
 
